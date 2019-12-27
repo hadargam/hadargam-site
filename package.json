@@ -1,0 +1,29 @@
+{
+  "name": "hadargam-site",
+  "version": "1.0.0",
+  "description": "hadar's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadargam/hadargam-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadargam/hadargam-site/issues"
+  },
+  "homepage": "https://github.com/hadargam/hadargam-site#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0",
+    "require-dir": "^1.2.0",
+    "run-sequence": "^1.1.5"
+  }
+}
